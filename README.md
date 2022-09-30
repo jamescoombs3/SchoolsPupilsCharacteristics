@@ -14,8 +14,10 @@ made up of four main components
   Main body: Format -  A section which reformats the data for plotting
   Main body: Plots - A section which plots the data (and writes some tables)
 
-The repositor will consist of
-  The script
-  The raw CSV files
-  Details of where the originals can be found. 
-  The output (tables and graphs) 
+# Inventory
+The repository consists of
+A Python script. 
+Raw CSV files from 2010 to 2022 inc. 
+A field mapping file (CSV) 
+A "data sources" spreadsheet explaining where the originals can be found. 
+The output (Three tables and three graphs) 
